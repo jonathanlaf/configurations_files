@@ -1,0 +1,20 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/babel-core" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/babel-types" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/babel-webpack-plugin" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/bootstrap" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
