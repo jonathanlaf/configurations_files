@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.2.1" />
+    <option name="version" value="2.4.0.3-2018.1" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
     <option name="highlightThickness" value="5" />
@@ -8,5 +8,6 @@
     <option name="accentColor" value="80cbc4" />
     <option name="useMaterialIcons" value="false" />
     <option name="darkTitleBar" value="true" />
+    <option name="userId" value="-18d7e8d1:163eee51da2:-7fff" />
   </component>
 </application>
