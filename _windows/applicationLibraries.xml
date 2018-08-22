@@ -24,6 +24,17 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="ag-grid.noStyle" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_ag-grid_dist_ag-grid.noStyle.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_ag-grid_dist_ag-grid.noStyle.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="bootstrap.bundle" type="javaScript">
       <properties>
         <sourceFilesUrls>
